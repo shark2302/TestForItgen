@@ -1,0 +1,6 @@
+C:\Users\e.kravchenko\RiderProjects\TestForItgen\TestForItgen\Task5\bin\Debug\Task5.exe
+C:\Users\e.kravchenko\RiderProjects\TestForItgen\TestForItgen\Task5\bin\Debug\Task5.pdb
+C:\Users\e.kravchenko\RiderProjects\TestForItgen\TestForItgen\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\e.kravchenko\RiderProjects\TestForItgen\TestForItgen\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\e.kravchenko\RiderProjects\TestForItgen\TestForItgen\Task5\obj\Debug\Task5.exe
+C:\Users\e.kravchenko\RiderProjects\TestForItgen\TestForItgen\Task5\obj\Debug\Task5.pdb
